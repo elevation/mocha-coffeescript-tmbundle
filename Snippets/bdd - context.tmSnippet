@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>context "$1", -&gt;
+	<string>context '$1', -&gt;
   $0</string>
 	<key>name</key>
 	<string>bdd - context</string>
